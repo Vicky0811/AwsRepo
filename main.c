@@ -3,8 +3,11 @@
 
 int main()
 {
-	printf("HelloWorld");
+printf("HelloWorld");
 int a ={5,7,2,9}
 printf("%d",a[2]);
+string str;
+scanf("%s",&str);
+printf("%s",str);
 }
 
