@@ -4,4 +4,7 @@
 int main()
 {
 printf("HelloWorld");
+string str;
+scanf("%s",&str);
+printf("%s",str);
 }
